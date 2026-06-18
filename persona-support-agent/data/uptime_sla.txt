@@ -1,0 +1,28 @@
+ADSPARKX SERVICE LEVEL AGREEMENT (SLA)
+========================================
+
+Uptime Commitment
+-----------------
+Enterprise plans guarantee 99.9% monthly uptime for the Adsparkx API and dashboard.
+Downtime is measured when core services return HTTP 5xx for more than 5 consecutive minutes.
+
+Operational Impact Reporting
+----------------------------
+Business customers receive automated incident reports within 1 hour of confirmed outages.
+Reports include: affected services, estimated user impact, root cause summary, and remediation timeline.
+
+Billing Dispute Resolution Timeline
+------------------------------------
+- Standard disputes: 3-5 business days
+- Enterprise priority: 2 business days
+- Executive escalation queue: same business day acknowledgment, resolution within 24-48 hours
+
+Credit Policy
+-------------
+If monthly uptime falls below 99.9%, eligible enterprise accounts receive service credits
+calculated as 10% of monthly fees per 0.1% below the SLA threshold.
+
+Communication Channels
+----------------------
+Executive accounts have a dedicated account manager and 24/7 priority hotline.
+Incident status page: https://status.adsparkx.io

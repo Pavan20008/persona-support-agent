@@ -1,0 +1,31 @@
+ACCOUNT SECURITY BEST PRACTICES
+==================================
+
+Password Requirements
+---------------------
+- Minimum 12 characters
+- At least one uppercase, lowercase, number, and symbol
+- Cannot reuse last 5 passwords
+
+Session Management
+------------------
+Sessions expire after 24 hours of inactivity.
+Revoke all sessions from Account > Security > Active Sessions.
+
+Suspicious Activity
+-------------------
+If you notice unauthorized logins:
+1. Change your password immediately
+2. Enable two-factor authentication
+3. Revoke all API keys and regenerate
+4. Contact security@adsparkx.io
+
+IP Allowlisting
+---------------
+Enterprise accounts can restrict dashboard access to specific IP ranges
+under Admin > Security > IP Allowlist.
+
+Security Notifications
+----------------------
+Email alerts are sent for: new device login, API key creation, password change,
+and billing profile updates.

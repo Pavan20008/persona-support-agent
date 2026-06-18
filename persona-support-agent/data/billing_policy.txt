@@ -1,0 +1,36 @@
+ADSPARKX BILLING POLICY
+========================
+
+Effective Date: January 1, 2025
+
+1. BILLING CYCLE
+All subscriptions are billed monthly or annually on the anniversary of signup.
+Invoices are generated on the 1st of each month and payment is due within 14 days.
+
+2. PAYMENT METHODS
+We accept major credit cards (Visa, MasterCard, Amex), ACH bank transfer (Enterprise plans),
+and wire transfer for annual contracts over $10,000 USD.
+
+3. DUPLICATE CHARGES
+If you believe you were charged twice for the same billing period:
+- Check whether you have multiple active subscriptions under different team members.
+- Review pending authorizations vs. settled charges in your billing portal.
+- Duplicate charges are typically resolved within 5-7 business days after verification.
+
+4. REFUND POLICY
+- Monthly plans: Pro-rated refunds available within 14 days of charge for unused service.
+- Annual plans: Refunds considered on a case-by-case basis for service outages exceeding SLA.
+- Refund requests involving disputed charges require manual review by our billing team.
+
+5. BILLING DISPUTE RESOLUTION TIMELINE
+Standard billing disputes are investigated within 3-5 business days.
+Complex cases involving multiple invoices or enterprise contracts may take 7-10 business days.
+Executive accounts receive priority review within 2 business days.
+
+6. OPERATIONAL IMPACT
+Unresolved billing issues do not suspend API access during the investigation window
+unless fraud is suspected. Service continuity is maintained for verified enterprise accounts.
+
+7. CONTACT
+Billing inquiries: billing@adsparkx.io
+Include account ID, invoice number, and charge date for fastest resolution.

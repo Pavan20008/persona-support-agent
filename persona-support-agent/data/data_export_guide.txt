@@ -1,0 +1,32 @@
+DATA EXPORT GUIDE
+=================
+
+Adsparkx allows you to export your account data for backup, migration, or compliance purposes.
+
+Export Types
+------------
+1. Analytics data (CSV or JSON)
+2. User and event records (JSON)
+3. Billing history (PDF or CSV)
+
+How to Request an Export
+-------------------------
+1. Go to Dashboard > Settings > Data Export
+2. Select data categories and date range
+3. Click "Generate Export"
+4. Download link expires after 72 hours
+
+Processing Time
+---------------
+- Standard exports (< 1GB): 1-2 hours
+- Large exports (> 1GB): up to 24 hours
+- Enterprise bulk exports: contact your account manager
+
+GDPR / Privacy Requests
+-----------------------
+Data erasure requests require identity verification and are processed within 30 days.
+Submit via privacy@adsparkx.io with subject "Data Erasure Request."
+
+Format Details
+--------------
+JSON exports use UTF-8 encoding. CSV exports include headers and ISO 8601 timestamps.

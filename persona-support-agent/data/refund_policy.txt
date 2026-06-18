@@ -1,0 +1,29 @@
+REFUND AND CHARGEBACK POLICY
+=============================
+
+Refund Eligibility
+------------------
+Monthly subscriptions: Full refund within 14 days if no significant usage occurred.
+Annual subscriptions: Pro-rated refunds for documented service failures only.
+Usage is measured by API calls exceeding 1,000 or active integrations.
+
+Chargeback Process
+------------------
+If you initiated a chargeback with your bank, our billing team will pause account changes
+until the dispute is resolved. Contact billing@adsparkx.io immediately to expedite review.
+
+Duplicate Charge Resolution
+---------------------------
+Verified duplicate charges are reversed within 5-7 business days.
+Temporary credits may be applied within 24 hours for enterprise accounts.
+
+Non-Refundable Items
+--------------------
+- Custom development fees
+- One-time setup fees after 30 days
+- Third-party marketplace purchases
+
+Escalation
+----------
+Refund demands involving legal threats or regulatory complaints are routed to our
+Compliance team. Response within 1 business day.
